@@ -1,0 +1,24 @@
+{
+  "name": "yaatra",
+  "version": "1.0.0",
+  "description": "Guided Tour library",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtotala/yaatra.git"
+  },
+  "keywords": [
+    "tour",
+    "guide",
+    "yaatra"
+  ],
+  "author": "Rohit Totala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rtotala/yaatra/issues"
+  },
+  "homepage": "https://github.com/rtotala/yaatra#readme"
+}
